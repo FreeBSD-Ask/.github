@@ -8,6 +8,12 @@
 
 <https://docs.qq.com/doc/DSVhuclhqZnlyR2Na>
 
+---------------------------
+
+【FreeBSD 中文社区 CFC 章程】
+
+<https://docs.qq.com/doc/DSVN0c2VvWWRHcGJN>
+
 --------------------------- 
 
 教程征集计划——【FreeBSD 中文社区 （CFC）2022 教程 激励计划】 
