@@ -1,40 +1,4 @@
-# FreeBSD 中文社区 CFC 建设
-
-
-## 社区文档
-
---------------------------
-
-【FreeBSD 中文社区 CFC 章程】
-
-<https://docs.qq.com/doc/DSVN0c2VvWWRHcGJN>
-
---------------------------- 
-
-教程征集计划——【FreeBSD 中文社区 （CFC）2022 教程 激励计划】 
-
-<https://docs.qq.com/doc/DSUJsUFBHTnVWQmtS>
-
------------------------------------------------------------- 
-
-【FreeBSD 中文社区(CFC) 2022 捐赠名单】 
-
-<https://docs.qq.com/doc/DSXZ1Q1JOenRzUkp4>
-
------------------------------------------------------------ 
-
-
-【FreeBSD 中文社区（CFC）联络名单】 
-
-<https://docs.qq.com/doc/DSUliWGh5ZUlXTFF0>
-
---------------------------- 
-
-【FreeBSD 中文社区（CFC）发展规划】 
-
-<https://docs.qq.com/doc/DSUd5Q2tYSlZWUmpj>
-
---------------------------- 
+# FreeBSD 中文社区
 
 ## 黑名单
 
