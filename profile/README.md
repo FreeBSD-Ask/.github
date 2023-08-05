@@ -6,6 +6,6 @@
 
 **请不做事的人或社区不要去嘲讽正在做事的。感谢您的体谅！**
 
-微信公众号（微信扫码关注我们）:
+微信公众号 `freebsdzh`（微信扫码关注我们）:
 
 ![WeChat on FreeBSD](https://github.com/FreeBSD-Ask/.github/assets/10327999/a9a09afb-1fdb-49c2-85d8-90d3a384a45d)
