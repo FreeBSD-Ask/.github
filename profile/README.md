@@ -8,4 +8,5 @@
 
 微信公众号 `freebsdzh`（微信扫码关注我们）:
 
-![WeChat on FreeBSD](https://github.com/FreeBSD-Ask/.github/assets/10327999/a9a09afb-1fdb-49c2-85d8-90d3a384a45d)
+
+![Wechat on FreeBSD](https://github.com/FreeBSD-Ask/.github/assets/10327999/adf3b9cd-2a35-487f-87a1-324320a02e4f)
