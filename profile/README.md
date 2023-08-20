@@ -1,4 +1,4 @@
-# FreeBSD 中文社区
+# FreeBSD 中文社区（Chinese FreeBSD Community）
 
 欢迎你，如有问题请访问 https://bsdcn.org 或 https://chinafreebsd.org。
 
