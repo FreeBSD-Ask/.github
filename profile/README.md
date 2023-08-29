@@ -1,6 +1,8 @@
 # FreeBSD 中文社区（Chinese FreeBSD Community）
 
-欢迎你，如有问题请访问 https://bsdcn.org 或 https://chinafreebsd.org。
+欢迎你，如有问题请访问 <https://bsdcn.org> 或 <https://chinafreebsd.org>。
+
+更多信息：<https://freebsd.gitbook.io/cfc>
 
 没有人 ***强迫您*** 加入或关注本社区，所以也请您 ***不要诋毁*** 我们。FreeBSD 在境内这十几年一直在走下坡路，这不是我们想看到的。
 
