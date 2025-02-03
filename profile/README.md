@@ -14,8 +14,14 @@
 
 我们必须团结起来做些什么事情，无论大小，哪怕只是谈谈自己的学习体会（但并非出于炫耀）。否则如果只是夸夸其谈的话，我们和那些只会吹牛逼的、只会键政的、互称大佬的群或社区有任何区别吗？如果没有区别，那就没有任何意义，那么我宁愿这个社区不再存在。如果大家有时间有精力的话可以考虑翻译文档，如果会编程的话可以考虑移植软件到 BSD，如果能力更高甚至可以参与系统开发。
 
-微信公众号 `freebsdzh`（微信扫码关注我们）:
+## 联系方式
 
-![Wechat on FreeBSD](https://github.com/FreeBSD-Ask/.github/assets/10327999/adf3b9cd-2a35-487f-87a1-324320a02e4f)
+**首要**联系方式：**QQ 群**：787969044（须答题验证）
+
+微信群：（须先加入 QQ 群，再联系群主）
+
+Telegram 群组：[https://t.me/oh_my_BSD](https://t.me/oh_my_BSD)
+
+Skype: [https://join.skype.com/xktkQtXZopfv](https://join.skype.com/xktkQtXZopfv)
 
 
