@@ -20,8 +20,10 @@
 
 微信群：（须先加入 QQ 群，再联系群主）
 
+Discord 群组：<https://discord.gg/n5wu65Z6tw>
+
 Telegram 群组：[https://t.me/oh_my_BSD](https://t.me/oh_my_BSD)
 
-Skype: [https://join.skype.com/xktkQtXZopfv](https://join.skype.com/xktkQtXZopfv)
+
 
 
