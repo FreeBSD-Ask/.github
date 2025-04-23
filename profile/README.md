@@ -24,4 +24,6 @@ Discord 群组：<https://discord.gg/n5wu65Z6tw>
 
 Telegram 群组：[https://t.me/oh_my_BSD](https://t.me/oh_my_BSD)
 
-
+>警告
+>
+>Telegram 群组 https://t.me/freebsdba 目前与本社区（CFC）无关，不受本社区管理。
