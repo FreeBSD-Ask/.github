@@ -22,8 +22,6 @@
 
 Discord 群组：<https://discord.gg/n5wu65Z6tw>
 
-Telegram 群组：[https://t.me/oh_my_BSD](https://t.me/oh_my_BSD)
-
 
 
 
