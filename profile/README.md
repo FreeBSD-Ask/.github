@@ -2,7 +2,9 @@
 
 🎉 欢迎来到 BSD（Berkeley Software Distribution, 伯克利软件**发行版**）这片遗失的世界！
 
-FreeBSD 赓续了**计算机系统研究小组**（Computer Systems Research Group, CSRG）的未竟事业，是一款真正自由（Liberty）的 **操作系统**，在这云谲波诡的世界中仍然坚守 BSD UNIX 哲学——恪守古老的法则，追寻真正的自由。
+FreeBSD 项目赓续了**计算机系统研究小组**（Computer Systems Research Group, CSRG）的未竟事业。
+
+FreeBSD 是一款真正自由（Liberty）的 **操作系统**，在这云谲波诡的世界中仍然坚守 BSD UNIX 哲学——恪守古老的法则，追寻真正的自由。
 
 FreeBSD 中文社区官方网站：<https://bsdcn.org>
 
